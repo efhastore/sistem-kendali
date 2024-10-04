@@ -1,6 +1,6 @@
 // Pin dan variabel
 int sensorPin = A0;  // Pin analog untuk LM35 (sensor suhu)
-int ledPin = 13;      // Pin digital untuk LED
+int ledPin = 13;      // Pin digital untuk LED 13
 String mode = "manual";  // Mode awal: manual (untuk kontrol LED)
 
 // Fungsi setup() dijalankan sekali saat perangkat dinyalakan

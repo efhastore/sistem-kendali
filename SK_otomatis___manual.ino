@@ -1,5 +1,5 @@
 // Pin dan variabel
-int sensorPin = A0;  // Pin analog untuk LM35 (sensor suhu)  A0
+int sensorPin = A0;  // Pin analog untuk LM35 (sensor suhu)  A0 hahahahahahaha
 int ledPin = 13;      // Pin digital untuk LED 13
 String mode = "manual";  // Mode awal: manual (untuk kontrol LED)
 
